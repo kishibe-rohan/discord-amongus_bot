@@ -8,7 +8,7 @@
 
 
 ### Assign Roles based upon emoji 
-![Assign Roles](https://ibb.co/xmZ4Nr4)
+![Assign Roles](https://ibb.co/ByZzWbh)
 ![Roles](https://ibb.co/ByZzWbh)
 
 ### Greet users with a "Hi @username" when they say Hello
